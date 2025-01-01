@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 ![visit-counter](https://visit-counter.lisonge.workers.dev?key=dogecn)
 
 > 🔥 **Python** enthusiast
 > 
