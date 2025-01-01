@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Visit Counter](https://komarev.com/ghpvc/?username=dogecn&style=pixel) <!--style=use-for-badge-->
+![Visit Counter](https://komarev.com/ghpvc/?username=dogecn&style=for-the-badge)
 ![Github Stars](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dogecn)
 
 > 🔥 **Python** enthusiast
