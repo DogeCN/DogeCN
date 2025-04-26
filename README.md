@@ -4,15 +4,15 @@
 
 > ⚡ **Python & Rust**
 > 
-> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogecn&theme=codeSTACKr)](https://github.com/dogecn)
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DogeCN&theme=codeSTACKr)](https://github.com/DogeCN)
 
 > 📈 Developing some **gadgets** and **games**
 > 
-> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dogecn&repo=plume-lexicon&theme=codeSTACKr)](https://github.com/DogeCN/Plume-Lexicon)
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DogeCN&repo=Plume-Lexicon&theme=codeSTACKr)](https://github.com/DogeCN/Plume-Lexicon)
 > 
-> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dogecn&repo=tic-tac-toe&theme=codeSTACKr)](https://github.com/DogeCN/Tic-Tac-Toe)
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DogeCN&repo=Tic-Tac-Toe&theme=codeSTACKr)](https://github.com/DogeCN/Tic-Tac-Toe)
 >
-> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dogecn&repo=tic-tac-ku&theme=codeSTACKr)](https://github.com/DogeCN/Tic-Tac-Ku)
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DogeCN&repo=Tic-Tac-Ku&theme=codeSTACKr)](https://github.com/DogeCN/Tic-Tac-Ku)
 
 > <details>
 >   <summary>Contact Me</summary>
